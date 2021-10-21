@@ -19,4 +19,7 @@ How to Test
 9. Run `php artisan serve` from your terminal and the app will be running on `http://127.0.0.1:8000/`
 10. Run `php artisan queue:work` to execute queued jobs.
 
-Link to API documentation: `https://documenter.getpostman.com/view/11277551/UV5ZCcRY#fc8a4278-4c17-46b7-95de-c6cf6af5c89b`
+Link to API documentation: [here](https://documenter.getpostman.com/view/11277551/UV5ZCcRY#fc8a4278-4c17-46b7-95de-c6cf6af5c89b).
+
+Thank you
+Adekunte Tolulope
