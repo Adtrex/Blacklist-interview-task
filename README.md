@@ -22,4 +22,5 @@ How to Test
 Link to API documentation: [here](https://documenter.getpostman.com/view/11277551/UV5ZCcRY#fc8a4278-4c17-46b7-95de-c6cf6af5c89b).
 
 Thank you.
+
 Adekunte Tolulope.
